@@ -19,7 +19,7 @@ body:
       label: 问题类型
       description: |
         选择问题类型
-        **诸如刷物品等恶性漏洞，请直接私聊管理员！**
+        **诸如刷物品等恶性漏洞，请直接私聊管理员或选择“报告安全漏洞”！**
       options: 
         - 材质问题（例如材质包，家具，实体显示异常，这类问题请确定你使用了最新的材质包）
         - 数值问题（某个数值未按预期工作，例如占位符（像%abc_defg%这样的）没有正常显示）
@@ -32,10 +32,10 @@ body:
   - type: textarea
     id: serverlog
     attributes: 
-      label: 服务端日志
+      label: 客户端日志
       description: |
-        如果出现崩溃等问题，填写latest.log
-        如果日志超出字数限制，请在 https://mclo.gs/ 上传日志文件，在下方填写链接。
+        如果出现崩溃，材质包等问题。
+        请在 https://mclo.gs/ 上传日志文件，在下方填写链接。
         你还可以提供截图和文件（可以直接利用QQ的Ctrl+Alt+A截图后，Ctrl+V粘贴到这个框，或者拖动文件）
       render: text
     validations:
@@ -54,7 +54,7 @@ body:
           required: true
         - label: 我已知情并同意：需要正确填写 issues 格式，否则此反馈将会被直接锁定。
           required: true
-        - label: 我已知情并同意：如果滥用 issues 功能，我可能被列入黑名单甚至导致被封禁。
+        - label: 我已知情并同意：如果滥用 issues 功能，我会被列入黑名单甚至导致被封禁。
           required: true
         - label: 我确认我没有仔细阅读随便勾选的这些选项。
           required: false
