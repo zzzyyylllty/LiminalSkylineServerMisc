@@ -14,6 +14,16 @@
 特别鸣谢前网络服技术 **Canobe1314** 提供的网络服投递注意事项与开发建议。
 特别鸣谢6年服主 **Kingsthere** 提供的Java/kotlin代码教学，以供阿卡糖能够完成插件。
 
+## 社区
+**我们不再主要使用QQ作为交流渠道。**
+
+**请尽快加入其他渠道，以免我们弃用或发生意外时，无法联系到我们。**
+
+**已不再提供 QQ 群聊加入途径**
+
+**Oopz**: [Backrooms Maximizer OOPZ](https://oopz.cn/i/mF3xaE)
+**Discord**: [阈限天际-LIMINALSKYLINE-DC](https://discord.com/invite/VHs958jJXj)
+
 ## 关于旧版地图
 
 这个服务器的**早期版本**是我和几个朋友在2023年创建的旧系列《后室最大化》指令兼容性地图，
@@ -25,10 +35,3 @@
 > （感谢@Cvdx07(xiyu)以及@黑米团子对旧版地图发生矛盾的调解）
 
 **感谢你成为我们的玩家，我们希望你的经历不像我们一样令人遗憾。**
-
-## 社区
-**我们不再主要使用QQ作为交流渠道。
-**请尽快加入其他渠道，以免我们弃用或发生意外时，无法联系到我们。**
-**已不再提供 QQ 群聊加入途径**
-**Oopz**: [Backrooms Maximizer OOPZ](https://oopz.cn/i/mF3xaE)
-**Discord**: [阈限天际-LIMINALSKYLINE-DC](https://discord.com/invite/VHs958jJXj)
