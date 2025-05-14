@@ -11,7 +11,6 @@
 本服务器由 **wangyu1023** 与 **AkaCandyKAngel** 主要开发！
 当前本服务器正在趋于稳定和走上正轨。
 
-特别鸣谢前网络服技术 **Canobe1314** 提供的网络服投递注意事项与开发建议。
 特别鸣谢6年服主 **Kingsthere** 提供的Java/kotlin代码教学，以供阿卡糖能够完成插件。
 
 ## 社区
@@ -23,6 +22,10 @@
 
 **Oopz**: [Backrooms Maximizer OOPZ](https://oopz.cn/i/mF3xaE)
 **Discord**: [阈限天际-LIMINALSKYLINE-DC](https://discord.com/invite/VHs958jJXj)
+
+## 文档
+
+[阈限天际 Manual](https://ucnp9xb186sr.feishu.cn/wiki/CG2OwBGkJiLvSjksCoicvoPQn3d)
 
 ## 其他项目
 
