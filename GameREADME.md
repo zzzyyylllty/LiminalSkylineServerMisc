@@ -24,6 +24,10 @@
 **Oopz**: [Backrooms Maximizer OOPZ](https://oopz.cn/i/mF3xaE)
 **Discord**: [阈限天际-LIMINALSKYLINE-DC](https://discord.com/invite/VHs958jJXj)
 
+## 其他项目
+
+[Sertraline](https://github.com/zzzyyylllty/Sertraline-Hydrochloride)
+
 ## 关于旧版地图
 
 这个服务器的**早期版本**是我和几个朋友在2023年创建的旧系列《后室最大化》指令兼容性地图，
